@@ -1,6 +1,6 @@
 ---
 path: '/part-5'
-title: '5. Week 6-7'
+title: '5. Week 5'
 overview: true
 hidden: false
 separator_after: "Programmeren 2"
