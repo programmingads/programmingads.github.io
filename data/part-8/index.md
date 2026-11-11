@@ -3,6 +3,7 @@ path: '/part-8'
 title: '8. Week 3'
 overview: true
 hidden: false
+separator_after: "Optionele modules"
 ---
 
 <pages-in-this-section></pages-in-this-section>
