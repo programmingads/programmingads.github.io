@@ -1,6 +1,6 @@
 ---
 path: '/part-8'
-title: '8. Week 3'
+title: '8. Week 3 en 4'
 overview: true
 hidden: false
 separator_after: "Optionele modules"
